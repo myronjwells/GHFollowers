@@ -14,3 +14,4 @@ enum GFError: String, Error {
     case invalidData = "The data received from the server was invalid. Please try again."
     
 }
+
